@@ -1,7 +1,7 @@
 # Jour 1 - HTML & CSS - Partie 2
 
 ## Lien vers la <a href="https://annecemech.github.io/html-css-part-2/" target="_blank">démo</a>
-## Lien vers le <a href="https://docs.google.com/presentation/d/e/2PACX-1vRI7-VQ8U9-nnyyW57J2i7nInO7Bhim0wmf9pvrAVqIsO47FG6_5xTDoZsSAxElKm37BPt1oFV6dP9t/pub?start=false&loop=false&delayms=3000" target="_blank">cours</a>
+## Lien vers le <a href="https://github.com/vallata/html-et-css-part-2/blob/main/P2%20-%20Cours%20De%CC%81veloppement%20front%20end%20-%202026%20-%20HTMLCSS%20Part%202.pptx.pdf" target="_blank">cours</a>
 
 ## Les divisions
 
