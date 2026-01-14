@@ -217,3 +217,6 @@ Pour finaliser l'intégration de ma page, j'ai besoin de quelques classes utilit
 	margin-bottom: 2rem;
 }
 ```
+-
+
+## ➡️ Lien vers le prochain cours <a href="https://github.com/vallata/html-et-css-part-3" target="_blanck">ici</a>
